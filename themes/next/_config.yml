@@ -197,8 +197,8 @@ links_settings:
   layout: block
 
 links:
-  Xiaohei's Blog: https://www.xiaohei6.top
   fzcunit's blog: https://blog.xn--xsqp6uwvq.com/
+  Xiaohei's Blog: https://www.xiaohei6.top
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -353,7 +353,7 @@ codeblock:
   highlight_theme: night
   # Add copy button on codeblock
   copy_button:
-    enable: false
+    enable: true
     # Show text copy result.
     show_result: false
     # Available values: default | flat | mac

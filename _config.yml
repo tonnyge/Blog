@@ -6,7 +6,7 @@
 title: Tonny's Blog
 subtitle: "Hello World!"
 description: "A simple developer"
-keywords:
+keywords: ""
 author: Tonny Ge
 language: zh-CN
 timezone: ""
@@ -100,15 +100,10 @@ theme: next
 deploy:
   type: "git"
   repo:
-    github: git@github.com:TonnyGe/tonnyge.github.io.git
-    # coding: git@e.coding.net:tonnyge/myBlog.git
+    github: git@github.com:oh-my-tony/oh-my-tony.github.io.git
     gitee: git@gitee.com:gtn/myBlog.git
+    # coding: git@e.coding.net:tonnyge/myBlog.git
   branch: master
-
-lazyload:
-  enable: false
-  # className: #可选 e.g. .J-lazyload-img
-  # loadingImg: #可选 eg. ./images/loading.png
 
 neat_enable: true
 # 压缩html
@@ -142,11 +137,11 @@ neat_js:
     - "**/local-search.js"
     - "**/muse.js"
 
-search:
-  path: search.xml
-  field: post
-  format: html
-  limit: 10000
+# search:
+#   path: search.xml
+#   field: post
+#   format: html
+#   limit: 10000
 
   symbols_count_time:
     symbols: true
