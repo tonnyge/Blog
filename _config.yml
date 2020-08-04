@@ -100,10 +100,10 @@ theme: next
 deploy:
   type: "git"
   repo:
-    github: git@github.com:oh-my-tony/oh-my-tony.github.io.git
-    gitee: git@gitee.com:gtn/myBlog.git
+    github: git@github.com:oh-my-tony/blog.git
+    gitee: git@gitee.com:gtn/Blog.git
     # coding: git@e.coding.net:tonnyge/myBlog.git
-  branch: master
+  branch: deploy
 
 neat_enable: true
 # 压缩html
