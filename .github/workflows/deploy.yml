@@ -1,0 +1,50 @@
+name: deploy app to server
+on:
+  push:
+    branches:
+      - master
+
+env:
+  # 设置时区
+  TZ: Asia/Shanghai
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+      # 获取缓存目录
+      - name: Get npm cache directory
+        id: npm-cache
+        run: |
+          echo "::set-output name=dir::$(npm config get cache)"
+      - uses: actions/cache@v2
+        with:
+          path: ${{ steps.npm-cache.outputs.dir }}
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      # 安装依赖
+      - name: Install dependencies
+        run: npm install
+        working-directory: ${{ env.working-directory }}
+      # 构建
+      - name: npm run build
+        run: npm run build
+
+      # 部署
+      - name: Deploy
+        uses: easingthemes/ssh-deploy@v2.1.5
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.ACCESS_TOKEN }}
+          # 删除服务器上目录里所有文件
+          ARGS: '-avz --delete'
+          # 项目 build 后静态文件位置
+          SOURCE: 'public/'
+          REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+          REMOTE_PORT: ${{ secrets.REMOTE_PORT }}
+          REMOTE_USER: ${{ secrets.REMOTE_USER }}
+          TARGET: ${{ secrets.TARGET }}
