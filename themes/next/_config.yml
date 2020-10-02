@@ -251,7 +251,6 @@ symbols_count_time:
   item_text_post: true
   item_text_total: false
 
-
 # Use icon instead of the symbol # to indicate the tag at the bottom of the post
 tag_icon: true
 
@@ -351,7 +350,7 @@ codeblock:
   # Code Highlight theme
   # Available values: normal | night | night eighties | night blue | night bright | solarized | solarized dark | galactic
   # See: https://github.com/chriskempson/tomorrow-theme
-  highlight_theme: night
+  highlight_theme: galactic
   # Add copy button on codeblock
   copy_button:
     enable: true
@@ -470,7 +469,7 @@ yandex_site_verification:
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification: 
+baidu_site_verification:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
 baidu_push: false
