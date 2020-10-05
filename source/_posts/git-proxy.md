@@ -38,6 +38,7 @@ git config --global https.proxy "https://127.0.0.1:10086"
 执行后 `~/.gitconfig` 文件
 
 ```
+# ~/.gitconfig
 [http "https://github.com"]
         proxy = socks5://127.0.0.1:10086
 [https "https://github.com"]
