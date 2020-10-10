@@ -33,7 +33,7 @@ jobs:
         run: yarn
       # 构建
       - name: yarn build
-        run: yarn build
+        run: yarn g
 
       # 部署
       - name: Deploy
