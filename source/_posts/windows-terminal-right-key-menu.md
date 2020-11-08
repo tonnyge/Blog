@@ -31,4 +31,4 @@ Windows Terminal 安装后不会在资源管理器右键菜单添加快捷选项
    ```
 
 效果:
-![](https://img-1251985644.file.myqcloud.com/img/1.png)
+![](https://img-1251985644.file.myqcloud.com/img/blog/windows-terminal-right-key-menu/1.png)
