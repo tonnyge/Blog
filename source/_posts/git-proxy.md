@@ -2,7 +2,7 @@
 title: 为 Git 设置代理
 date: 2020-10-02 18:44:29
 categories:
-  - 开发相关
+  - 实用教程
 tags:
   - git
   - ssh

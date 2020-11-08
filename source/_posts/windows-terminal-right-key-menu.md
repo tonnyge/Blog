@@ -2,7 +2,7 @@
 title: Windows Terminal添加右键菜单
 date: 2020-10-09 23:33:23
 categories:
-  - 开发相关
+  - 实用教程
 tags:
   - Windows Terminal
 ---
