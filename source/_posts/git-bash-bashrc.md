@@ -9,6 +9,8 @@ tags:
   - bashrc
 ---
 
+主要是我自己 Git Bash 的备份...
+
 ```bash
 # ~/.bashrc
 
