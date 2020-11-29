@@ -31,6 +31,8 @@ tags:
 修改完成效果:
 ![Snipaste_2020-11-29_11-32-09](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-32-09.png)
 
+**涛哥有言：**垃圾设计...
+
 **参考资料：**
 
 [How to customize Alt + Tab for Microsoft Edge open tabs on Windows 10 October 2020 Update](https://www.windowscentral.com/how-customize-alt-tab-microsoft-edge-open-tabs-windows-10-october-2020-update)
