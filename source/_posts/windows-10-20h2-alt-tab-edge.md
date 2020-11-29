@@ -20,11 +20,11 @@ tags:
 
    ![Snipaste_2020-11-29_11-43-06](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-43-06.png)
 
-2. 依次找到`System (系统)` - `Multitasking(多任务)`
+2. 依次找到`System (系统)` - `Multitasking(多任务处理)`
 
    ![Snipaste_2020-11-29_11-31-26](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-31-26.png)
 
-3. 将`Open Windows and 5 most recent tabs in Edge`修改为`Open windows only`
+3. 将`Open Windows and 5 most recent tabs in Edge(打开的窗口和Microsoft Edge中的5个最新选项卡)`修改为`Open windows only(仅打开的窗口)`
 
    ![Snipaste_2020-11-29_11-31-39](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-31-39.png)
 
