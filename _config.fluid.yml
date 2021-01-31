@@ -415,7 +415,7 @@ about: # 关于页需要手动创建，具体请见：https://hexo.fluid-dev.com
   name: Taoning Ge
   introduce: 'A high school student who loves programming' # 支持 HTML
   icons: # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，class 代表图标的 css class
-    - { class: 'iconfont icon-github-fill', link: 'https://github.com/tonnyge', tip: 'GitHub' }
+    - { class: 'iconfont icon-github-fill', link: 'https://github.com/gtn1024', tip: 'GitHub' }
     - { class: 'iconfont icon-gitee-fill', link: 'https://gitee.com/gtn', tip: '码云' }
     - {
         class: 'iconfont icon-bilibili-fill',
