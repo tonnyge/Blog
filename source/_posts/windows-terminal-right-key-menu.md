@@ -7,6 +7,8 @@ tags:
   - Windows Terminal
 ---
 
+**注意：Windows Terminal 已自动在右键菜单添加快捷选项，此篇文章仅供没有的朋友使用。**
+
 Windows Terminal 安装后不会在资源管理器右键菜单添加快捷选项
 
 不太方便
