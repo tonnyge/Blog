@@ -14,22 +14,22 @@ tags:
 > 结果发现 Alt+Tab 快捷键显示 Edge 打开的标签页
 > 本篇文章就来解决该问题
 
-![Snipaste_2020-11-29_11-29-37](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-29-37.png)
+![Snipaste_2020-11-29_11-29-37](https://img-1251985644.image.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-29-37.png)
 
 1. 打开 Windows 10 设置
 
-   ![Snipaste_2020-11-29_11-43-06](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-43-06.png)
+   ![Snipaste_2020-11-29_11-43-06](https://img-1251985644.image.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-43-06.png)
 
 2. 依次找到`System (系统)` - `Multitasking(多任务处理)`
 
-   ![Snipaste_2020-11-29_11-31-26](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-31-26.png)
+   ![Snipaste_2020-11-29_11-31-26](https://img-1251985644.image.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-31-26.png)
 
 3. 将`Open Windows and 5 most recent tabs in Edge(打开的窗口和Microsoft Edge中的5个最新选项卡)`修改为`Open windows only(仅打开的窗口)`
 
-   ![Snipaste_2020-11-29_11-31-39](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-31-39.png)
+   ![Snipaste_2020-11-29_11-31-39](https://img-1251985644.image.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-31-39.png)
 
 修改完成效果:
-![Snipaste_2020-11-29_11-32-09](https://img-1251985644.file.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-32-09.png)
+![Snipaste_2020-11-29_11-32-09](https://img-1251985644.image.myqcloud.com/img/blog/windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-32-09.png)
 
 **涛哥有言：**垃圾设计...
 
