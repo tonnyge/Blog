@@ -455,3 +455,9 @@ links:
         link: 'https://www.xiaohei6.top',
         # image: '/img/favicon.png',
       }
+    - {
+        title: "高中笔记",
+        intro: "Taoning's Senior Notes",
+        link: 'https://senior.getaoning.com',
+        # image: '/img/favicon.png',
+      }
