@@ -10,7 +10,7 @@ tags:
 
 # IntelliJ IDEA 实用技巧
 
-![IntelliJ IDEA](https://img-1251985644.image.myqcloud.com/img/blog/intellij-idea-awesome-feature/XXkc3IvasQoXdd3k.png)
+![IntelliJ IDEA](https://img-1251985644.file.myqcloud.com/img/blog/intellij-idea-awesome-feature/XXkc3IvasQoXdd3k.png)
 
 > 最强 Java IDE，自然有许多不被人们知道的功能
 >
@@ -28,23 +28,23 @@ IntelliJ IDEA 如何快速调整字体大小？
 
    也可以使用快捷键`Ctrl`+`Alt`+`S`(默认快捷键)进入
 
-   ![](https://img-1251985644.image.myqcloud.com/img/blog/intellij-idea-awesome-feature/1.png)
+   ![](https://img-1251985644.file.myqcloud.com/img/blog/intellij-idea-awesome-feature/1.png)
 
 2. 开启选项
 
    “Editor”-“General”，在右侧选中“Change font size with Ctrl+Mouse Wheel”
 
-   ![](https://img-1251985644.image.myqcloud.com/img/blog/intellij-idea-awesome-feature/2.png)
+   ![](https://img-1251985644.file.myqcloud.com/img/blog/intellij-idea-awesome-feature/2.png)
 
 效果演示：
 
-![](https://img-1251985644.image.myqcloud.com/img/blog/intellij-idea-awesome-feature/RkRAdE1bdRSHQRxV.gif)
+![](https://img-1251985644.file.myqcloud.com/img/blog/intellij-idea-awesome-feature/RkRAdE1bdRSHQRxV.gif)
 
 ## 代码背景图
 
 IDEA 自带的背景太单调了
 
-![](https://img-1251985644.image.myqcloud.com/img/blog/intellij-idea-awesome-feature/2-0.png)
+![](https://img-1251985644.file.myqcloud.com/img/blog/intellij-idea-awesome-feature/2-0.png)
 
 给他加张图吧
 
@@ -56,7 +56,7 @@ IDEA 自带的背景太单调了
 
    点击`Action`，搜索`Set Background Image`
 
-   ![](https://img-1251985644.image.myqcloud.com/img/blog/intellij-idea-awesome-feature/2-1.png)
+   ![](https://img-1251985644.file.myqcloud.com/img/blog/intellij-idea-awesome-feature/2-1.png)
 
 2. 设置图片
 
@@ -66,8 +66,8 @@ IDEA 自带的背景太单调了
 
    点击`OK`
 
-   ![](https://img-1251985644.image.myqcloud.com/img/blog/intellij-idea-awesome-feature/2-2.png)
+   ![](https://img-1251985644.file.myqcloud.com/img/blog/intellij-idea-awesome-feature/2-2.png)
 
 效果:
 
-![](https://img-1251985644.image.myqcloud.com/img/blog/intellij-idea-awesome-feature/2-3.png)
+![](https://img-1251985644.file.myqcloud.com/img/blog/intellij-idea-awesome-feature/2-3.png)

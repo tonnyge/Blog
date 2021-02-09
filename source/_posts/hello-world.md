@@ -9,4 +9,4 @@ tags:
 
 博客建立!
 
-![](https://img-1251985644.image.myqcloud.com/img/20200515224451.jpg)
+![](https://img-1251985644.file.myqcloud.com/img/20200515224451.jpg)

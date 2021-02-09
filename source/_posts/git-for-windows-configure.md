@@ -129,8 +129,8 @@ PS1="$PS1"'\[\033[0m\]'        # change to white
 
 最终效果:
 
-![](https://img-1251985644.image.myqcloud.com/img/blog/git-for-windows-configure/LE65d0lAc5GKN4RK.png)
+![](https://img-1251985644.file.myqcloud.com/img/blog/git-for-windows-configure/LE65d0lAc5GKN4RK.png)
 
-![](https://img-1251985644.image.myqcloud.com/img/blog/git-for-windows-configure/eDy1fDMaEN1xYqH1.png)
+![](https://img-1251985644.file.myqcloud.com/img/blog/git-for-windows-configure/eDy1fDMaEN1xYqH1.png)
 
 先这样吧，有空回来补
