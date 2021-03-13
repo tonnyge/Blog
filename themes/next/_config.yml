@@ -96,12 +96,12 @@ creative_commons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
+scheme: Mist
 #scheme: Pisces
-scheme: Gemini
+# scheme: Gemini
 
 # Dark Mode
-darkmode: false
+darkmode: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -174,7 +174,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/gtn1024 || fab fa-github
-  Gitee: https://gitee.com/gtn || iconfont icon-gitee-fill-round
+  # Gitee: https://gitee.com/gtn || iconfont icon-gitee-fill-round
   E-Mail: mailto:tony.bazhang@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
@@ -198,7 +198,7 @@ links_settings:
   layout: block
 
 links:
-  fzcunit's blog: https://blog.xn--xsqp6uwvq.com/
+  # fzcunit's blog: https://blog.xn--xsqp6uwvq.com/
   Xiaohei's Blog: https://www.xiaohei6.top
 
 # Table of Contents in the Sidebar
@@ -472,7 +472,7 @@ yandex_site_verification:
 baidu_site_verification:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
-baidu_push: false
+baidu_push: true
 
 # ---------------------------------------------------------------
 # Third Party Plugins & Services Settings

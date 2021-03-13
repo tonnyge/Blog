@@ -985,11 +985,6 @@ hexo-symbols-count-time@^0.7.1:
   dependencies:
     hexo-util "1.9.0"
 
-hexo-theme-fluid@^1.8.5:
-  version "1.8.5"
-  resolved "https://registry.npmjs.org/hexo-theme-fluid/-/hexo-theme-fluid-1.8.5.tgz#f0a31905f28612253dcfb2846ecf5e0a18c3a7ac"
-  integrity sha512-OZsTRVvnmTfJHh04bdtW4RqVCgoSbQGzWUHuAxCRXBIzZ4z/z6GJ5oEuv/aaIXQrUeJjMqp6MBYCQX2uAfvaGA==
-
 hexo-util@1.9.0:
   version "1.9.0"
   resolved "https://registry.npmjs.org/hexo-util/-/hexo-util-1.9.0.tgz#0018429319720599253b2a3ddde0c5e4e4cfc652"

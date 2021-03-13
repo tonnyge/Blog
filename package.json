@@ -29,7 +29,5 @@
     "hexo-symbols-count-time": "^0.7.1",
     "hexo-wordcount": "^6.0.1"
   },
-  "devDependencies": {
-    "hexo-theme-fluid": "^1.8.5"
-  }
+  "devDependencies": {}
 }

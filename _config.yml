@@ -93,24 +93,24 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: fluid
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 
-neat_enable: true
+neat_enable: false
 # 压缩html
 neat_html:
-  enable: true
+  enable: false
   exclude:
 # 压缩css
 neat_css:
-  enable: true
+  enable: false
   exclude:
     - '**/*.min.css'
 # 压缩js
 neat_js:
-  enable: true
+  enable: false
   mangle: false
   output:
   compress:
