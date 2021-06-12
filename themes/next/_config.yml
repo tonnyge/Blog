@@ -174,15 +174,16 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/gtn1024 || fab fa-github
-  E-Mail: mailto:tony.bazhang@gmail.com || fa fa-envelope
+  E-Mail: mailto:gtn1024cc@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
-  #Twitter: https://twitter.com/yourname || fab fa-twitter
+  Twitter: https://twitter.com/gtn1024 || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   #Instagram: https://instagram.com/yourname || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
+  Telegram: https://t.me/gtn1024 || fab fa-telegram
 
 social_icons:
   enable: true
@@ -197,7 +198,7 @@ links_settings:
   layout: block
 
 links:
-  Xiaohei's Blog: https://www.xiaohei6.top
+  # Xiaohei's Blog: https://www.xiaohei6.top
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -382,8 +383,8 @@ bookmark:
 
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
-  enable: false
-  permalink: https://github.com/yourname
+  enable: true
+  permalink: https://github.com/gtn1024
   title: Follow me on GitHub
 
 # ---------------------------------------------------------------
@@ -466,7 +467,7 @@ yandex_site_verification:
 
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baidu_site_verification:
+baidu_site_verification: code-LMYZ3CH1Wu
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
 baidu_push: true
