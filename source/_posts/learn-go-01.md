@@ -31,7 +31,7 @@ Go 官方镜像站：[https://golang.google.cn/dl/](https://golang.google.cn/dl/
 
 为 Golang 配置代理
 
-~~（你问我为什么？自己脑补）~~
+~~（不要问我为什么……）~~
 
 ```bash
 go env -w GOPROXY=https://goproxy.cn,direct
