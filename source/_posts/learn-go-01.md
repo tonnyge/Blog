@@ -83,6 +83,26 @@ go env -w GOPROXY=https://goproxy.cn,direct
 
    ![](https://img-1251985644.file.myqcloud.com/images/20210618141708.png)
 
+6. 跨平台编译
+
+   编译到 Windows x64 平台：
+
+   ```bash
+   CGO_ENABLED=0 GOOS=windows GOARCH=amd64 go build
+   ```
+
+   编译到 macOS x64 平台：
+
+   ```bash
+   CGO_ENABLED=0 GOOS=darwin GOARCH=amd64 go build
+   ```
+
+   编译到 Linux ARM64 平台：
+
+   ```bash
+   CGO_ENABLED=0 GOOS=linux GOARCH=arm64 go build
+   ```
+
 参考资料：
 
 - [https://www.liwenzhou.com/posts/Go/install_go_dev/](https://www.liwenzhou.com/posts/Go/install_go_dev/)
