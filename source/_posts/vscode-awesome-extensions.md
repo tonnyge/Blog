@@ -78,27 +78,6 @@ tags: VSCode
 
 [https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-### Paste Image
-
- 扩展官方说明：
-
-> Paste image directly from clipboard to markdown/asciidoc(or other file)!
-
-人话：可以在 VSCode 中粘贴图片到 markdown 等文件中。不过好像只支持粘贴成 png 格式（？？？），还是我没找到选项？
-
-~~用了这插件以后我彻底扔掉了 Typora ……~~
-
-官方图：
-
-![](vscode-paste-image.gif)
-
-我目前额外的配置：
-![](2021-06-23-17-25-32.png)
-
-链接：
-
-[https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
-
 ## 主题类
 
 ### Material Theme
