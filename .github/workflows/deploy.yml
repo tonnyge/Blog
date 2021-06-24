@@ -4,7 +4,7 @@ name: deploy app to server
 on:
   push:
     branches:
-      - master
+      - main
 
 env:
   # 设置时区
