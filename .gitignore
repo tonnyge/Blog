@@ -1,7 +1,19 @@
+yarn.lock
 .DS_Store
-Thumbs.db
-db.json
-*.log
+
+# Node modules
 node_modules/
-public/
-.deploy*/
+
+# Build files
+packages/*/client/
+packages/*/node/
+
+# Vuepress Cache
+.cache/
+# Vuepress Temp
+.temp/
+# Vuepress Output
+dist/
+
+# VS Code Config file
+.vscode/
