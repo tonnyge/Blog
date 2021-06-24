@@ -30,7 +30,14 @@ module.exports = config({
 
     author: "Taoning",
 
-    nav: [{ text: "首页", link: "/", icon: "home" }],
+    nav: [
+      { text: "首页", link: "/", icon: "home" },
+      {
+        text: "分类",
+        link: "/category/",
+        icon: "categoryselected",
+      },
+    ],
 
     sidebar: {},
 
