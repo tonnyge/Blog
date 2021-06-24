@@ -3,7 +3,7 @@ blog: true
 home: true
 icon: home
 title: Taoning's Blog
-heroImage: /logo.svg
+heroImage: /1E725C310250DAE6D3E72599AD8D4F21.png
 heroText: Taoning's Blog
 heroFullScreen: true
 # project:

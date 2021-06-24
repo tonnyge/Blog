@@ -25,7 +25,7 @@ module.exports = config({
   },
 
   themeConfig: {
-    logo: "/logo.svg",
+    logo: "/1E725C310250DAE6D3E72599AD8D4F21.png",
     hostname: "https://getaoning.com",
 
     author: "Taoning",

@@ -1,5 +1,5 @@
 ---
-title: Windows 10 20H2版 Alt+Tab 显示Edge标签页解决方案
+title: Windows 10 20H2版 Alt + Tab 显示Edge标签页解决方案
 date: 2020-11-29 11:51:43
 category: 实用教程
 tags:
@@ -7,10 +7,12 @@ tags:
   - Windows 10
 ---
 
-# Windows 10 20H2 版 Alt+Tab 显示 Edge 标签页解决方案
+# Windows 10 20H2 版 Alt + Tab 显示 Edge 标签页解决方案
 
 > 昨天把系统从 Windows 10 20H1 版升级到了 20H2 版
+>
 > 结果发现 Alt+Tab 快捷键显示 Edge 打开的标签页
+>
 > 本篇文章就来解决该问题
 
 ![Snipaste_2020-11-29_11-29-37](./windows-10-20h2-alt-tab-edge/Snipaste_2020-11-29_11-29-37.png)
