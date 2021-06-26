@@ -41,10 +41,12 @@ module.exports = config({
       },
       {
         text: "编程语言",
+        icon: "code",
         items: [
           {
             text: "Java",
             link: "/java/",
+            icon: "java",
           },
         ],
       },
@@ -92,4 +94,13 @@ module.exports = config({
       },
     },
   },
+
+  plugins: [
+    [
+      "vuepress-plugin-baidu-tongji-analytics",
+      {
+        key: "dfa0bfe04b149648b32789f343813365",
+      },
+    ],
+  ],
 });
