@@ -39,9 +39,20 @@ module.exports = config({
         link: "/category/",
         icon: "categoryselected",
       },
+      {
+        text: "编程语言",
+        items: [
+          {
+            text: "Java",
+            link: "/java/",
+          },
+        ],
+      },
     ],
 
-    sidebar: {},
+    sidebar: {
+      "/java/": [{ title: "基础教程", children: ["setup-java-env-from-scratch"] }],
+    },
 
     blog: {
       // intro: "/intro/",
