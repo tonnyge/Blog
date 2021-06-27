@@ -50,6 +50,11 @@ module.exports = config({
           },
         ],
       },
+      {
+        text: "关于",
+        link: "/about",
+        icon: "",
+      },
     ],
 
     sidebar: {
@@ -60,7 +65,7 @@ module.exports = config({
       // intro: "/intro/",
       sidebarDisplay: "mobile",
       links: {
-        Zhihu: "https://www.zhihu.com/people/si-ni-ba-zhang",
+        Zhihu: "https://www.zhihu.com/people/gtn1024",
         Github: "https://github.com/gtn1024",
         Gmail: "mailto:gtn1024cc@gmail.com",
         Twitter: "https://twitter.com/gtn1024",
@@ -74,10 +79,10 @@ module.exports = config({
       content: "默认页脚",
     },
 
-    // comment: {
-    //   type: "waline",
-    //   serverURL: "https://vuepress-theme-hope-comment.vercel.app",
-    // },
+    comment: {
+      type: "waline",
+      serverURL: "https://blog-waline-api-two.vercel.app",
+    },
 
     copyright: {
       status: "global",
@@ -85,6 +90,7 @@ module.exports = config({
 
     git: {
       timezone: "Asia/Shanghai",
+      contributor: false,
     },
 
     mdEnhance: {

@@ -18,9 +18,9 @@ tags:
 
 在本节教程开始之前，推荐满足以下条件：
 
-- **尽量**能访问外网
-- **尽量**能够使用[Google](https://google.com)（实在不行，[Microsoft Bing](https://www.bing.com/)总能用吧……）
-- 有遇到问题能够在网上寻找答案的能力
+- **尽量**能访问外网；
+- 搜索引擎**尽量**能够使用[Google](https://google.com)，实在用不了的请使用[Microsoft Bing](https://www.bing.com/)；
+- 有遇到问题能够在网上寻找答案的能力。
 
 本文将讲解以下软件的安装：
 
