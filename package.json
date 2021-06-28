@@ -10,6 +10,8 @@
     "docs:eject-theme": "vuepress eject-hope doc"
   },
   "devDependencies": {
+    "vue-google-adsense": "^1.9.3",
+    "vue-script2": "^2.1.0",
     "vuepress": "^1.8.2",
     "vuepress-plugin-baidu-tongji-analytics": "^1.0.2",
     "vuepress-theme-hope": "^1.18.4"

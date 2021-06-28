@@ -16,6 +16,14 @@ module.exports = config({
     ],
     ["script", { src: "https://cdn.jsdelivr.net/npm/vue/dist/vue.min.js" }],
     ["script", { src: "https://cdn.jsdelivr.net/npm/@babel/standalone/babel.min.js" }],
+    [
+      "script",
+      {
+        "data-ad-client": "ca-pub-6668627590810317",
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      },
+    ],
   ],
 
   locales: {
@@ -31,6 +39,10 @@ module.exports = config({
     pwa: false,
 
     author: "Taoning",
+
+    custom: {
+      contentTop: "./components/ArticleTopAd.vue",
+    },
 
     nav: [
       { text: "首页", link: "/", icon: "home" },

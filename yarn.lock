@@ -9681,6 +9681,11 @@ vue-disqus@^3.0.5:
   resolved "https://repo.huaweicloud.com/repository/npm/vue-disqus/-/vue-disqus-3.0.5.tgz#8d0dd5cabdba7c47f82d129d2907a64366842fa8"
   integrity sha512-T3Y68lXf5W2lYt6j4Y3kZ4opLPH0EAzqriy11MS4D4Q2+UN0tFuUXeYP1MxfvdyaCEboXSM6CUswxsULuNV70Q==
 
+vue-google-adsense@^1.9.3:
+  version "1.9.3"
+  resolved "https://repo.huaweicloud.com/repository/npm/vue-google-adsense/-/vue-google-adsense-1.9.3.tgz#14811a716f6a676b4b43b988e84a88c271336c2a"
+  integrity sha512-BFJfnPFXmpu8pC+UtlHu4Ac9pXg/I3xh5FJ91FY9AaNQ4D+507UROZ4kk95V7UMGmugB/cZ9k2v/JQMPbvBndw==
+
 vue-hot-reload-api@^2.3.0:
   version "2.3.4"
   resolved "https://repo.huaweicloud.com/repository/npm/vue-hot-reload-api/-/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"
@@ -9718,6 +9723,11 @@ vue-router@^3.4.5, vue-router@^3.5.1:
   version "3.5.2"
   resolved "https://repo.huaweicloud.com/repository/npm/vue-router/-/vue-router-3.5.2.tgz#5f55e3f251970e36c3e8d88a7cd2d67a350ade5c"
   integrity sha512-807gn82hTnjCYGrnF3eNmIw/dk7/GE4B5h69BlyCK9KHASwSloD1Sjcn06zg9fVG4fYH2DrsNBZkpLtb25WtaQ==
+
+vue-script2@^2.1.0:
+  version "2.1.0"
+  resolved "https://repo.huaweicloud.com/repository/npm/vue-script2/-/vue-script2-2.1.0.tgz#8e480dc6052c8cdf2aa0ec112efc80f31ddc3522"
+  integrity sha512-EDUOjQBFvhkJXwmWuUR9ijlF7/4JtmvjXSKaHSa/LNTMy9ltjgKgYB68aqlxgq8ORdSxowd5eo24P1syjZJnBA==
 
 vue-server-renderer@^2.6.10:
   version "2.6.14"
