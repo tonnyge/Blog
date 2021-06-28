@@ -58,7 +58,7 @@ module.exports = config({
     ],
 
     sidebar: {
-      "/java/": [{ title: "基础教程", children: ["setup-java-env-from-scratch"] }],
+      "/java/": [{ title: "基础教程", children: ["setup-java-env-from-scratch", "the-first-program-of-java"] }],
     },
 
     blog: {
