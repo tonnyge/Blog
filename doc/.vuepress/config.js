@@ -2,7 +2,7 @@ const { config } = require("vuepress-theme-hope");
 
 module.exports = config({
   title: "Taoning's Blog",
-  description: "A student, love programing, CPO as well.",
+  description: "A student, love programing, CPO(Chief Procrastination Officer) as well.",
 
   dest: "./dist",
 
@@ -53,7 +53,7 @@ module.exports = config({
       {
         text: "关于",
         link: "/about",
-        icon: "",
+        icon: "info",
       },
     ],
 
@@ -62,7 +62,7 @@ module.exports = config({
     },
 
     blog: {
-      // intro: "/intro/",
+      intro: "/about/",
       sidebarDisplay: "mobile",
       links: {
         Zhihu: "https://www.zhihu.com/people/gtn1024",
@@ -76,7 +76,7 @@ module.exports = config({
 
     footer: {
       display: true,
-      content: "默认页脚",
+      // content: "默认页脚",
     },
 
     comment: {
