@@ -70,7 +70,7 @@ module.exports = config({
     ],
 
     sidebar: {
-      "/java/": [{ title: "基础教程", children: ["setup-java-env-from-scratch", "the-first-program-of-java"] }],
+      "/java/": [{ title: "Java SE 部分", children: ["install"] }],
     },
 
     blog: {
