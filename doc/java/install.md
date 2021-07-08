@@ -66,6 +66,10 @@ Java ME 则为一种“瘦身版”，是一个针对嵌入式设备的版本。
 
 ![image-20210708201627711](./install/image-20210708201627711.png)
 
+::: tip
+注意：M1 芯片的 mac 用户，目前请使用[zulu jdk](https://www.azul.com/downloads/?version=java-16-sts&os=macos&architecture=arm-64-bit&package=jdk)
+:::
+
 ## 环境变量配置
 
 在 Windows 系统中，设置`JAVA_HOME`环境变量，指向 Java 安装目录，然后在`PATH`环境变量中追加`%JAVA_HOME%\bin`即可。
