@@ -1,0 +1,11 @@
+.ascii-pic {
+  padding: 0 1.5rem !important;
+  font-size: 12px !important;
+  line-height: 12px !important;
+  border: none !important;
+  white-space: pre !important;
+  background-color: transparent !important;
+}
+.ascii-pic > code {
+  font-family: "Courier New", Consolas, monospace !important;
+}

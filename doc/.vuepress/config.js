@@ -24,6 +24,7 @@ module.exports = config({
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
       },
     ],
+    ["link", { rel: "stylesheet", href: "/css/custom.css" }],
   ],
 
   locales: {

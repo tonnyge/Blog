@@ -58,13 +58,43 @@ Java ME 则为一种“瘦身版”，是一个针对嵌入式设备的版本。
 
 下图为这三者的关系：
 
-![image-20210708201256400](./install/image-20210708201256400.png)
+<pre class="ascii-pic">
+<code>
+┌───────────────────────────┐
+│ JDK                       │
+│     ┌───────────────────┐ │
+│     │ JRE               │ │
+│     │     ┌───────────┐ │ │
+│     │     │ JVM       │ │ │
+│     │     │           │ │ │
+│     │     └───────────┘ │ │
+│     └───────────────────┘ │
+└───────────────────────────┘
+</code>
+</pre>
 
 ## Java 安装
 
 在[Oracle 官网](https://www.oracle.com/java/technologies/javase-downloads.html)下载最新的 Java SE 16 后安装即可。
 
-![image-20210708201627711](./install/image-20210708201627711.png)
+<pre class="ascii-pic">
+<code>
+┌───────────────────────────────────────────────────┐
+│                 Java SE Downloads                 │
+│          Java Platform, Standard Edition          │
+│                                                   │
+│Java SE 16                                         │
+│Java SE 16.0.1 is the latest...                    │
+│                                                   │
+│· Documentation          Oracle JDK                │
+│· Installation...          ■■■■■■■■■■■■■■■■        │
+│· Release Notes            ■ JDK Download ■        │
+│· Oracle License           ■■■■■■■■■■■■■■■■        │
+│    · Binary License         Documentation Download│
+│    · Documentation License                        │
+└───────────────────────────────────────────────────┘
+</code>
+</pre>
 
 ::: tip
 注意：M1 芯片的 mac 用户，目前请使用[zulu jdk](https://www.azul.com/downloads/?version=java-16-sts&os=macos&architecture=arm-64-bit&package=jdk)
